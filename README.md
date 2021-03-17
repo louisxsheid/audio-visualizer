@@ -1,3 +1,3 @@
 # audio-visualizer
 
-An audio-visualizer - TO EDIT
+Goal: Visualize audio from an uploaded file - on the web
